@@ -28,9 +28,9 @@
 `node app.js read --title="the note title`
 
 ### the node.js modules that i used:
-#### 1. fs  - to have the apility of dealing with files in the system
+#### 1. fs  - to have the ability of dealing with files in the system
 #### 2. [chalk](https://www.npmjs.com/package/chalk) - to add some coloring to the console
-#### 3. [yargs](https://www.npmjs.com/package/yargs) - to have the apility to take input from user and parse the user passed data.
+#### 3. [yargs](https://www.npmjs.com/package/yargs) - to have the ability to take input from user and parse the user passed data.
 
 
 > at the end i hope u like it and dont forget to give your opinion
