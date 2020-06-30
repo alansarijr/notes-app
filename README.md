@@ -4,7 +4,7 @@
 ## This App is my first app using nodejs i hope u like it and thx <3
 
 ### This app deals with data storing using json files.
-
+## The Commands
 1. add
 2. remove
 3. list
